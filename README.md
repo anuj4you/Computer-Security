@@ -1,4 +1,5 @@
 # Computer-Security 
+Let's explore all the contents of this introductory course on Computer Science.
 •  Describe different categories of modern-day computer security threats and attacks, and explain their impact. 
 •  Differentiate between the main categories of modern day malware.
 •  Discuss the basics of classical and modern cryptography and steganography techniques, and apply those techniques and related software tools in applications involving data confidentiality.
